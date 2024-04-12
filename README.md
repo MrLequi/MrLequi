@@ -57,7 +57,6 @@
 </p>
 
 <br>
-<br>
 
 -----
 
@@ -87,11 +86,3 @@
 <div align='center'>
 
 ## <b>Recuerda: si puedes imaginarlo, puedes programarlo...✨</b>
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
----
