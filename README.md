@@ -29,9 +29,12 @@
 - **Languages**:
     
     ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-    ![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=PHP&logoColor=white)
 
-<br>   
+<br>
+
+- **Back-End Development**:
+
+![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=PHP&logoColor=white)
     
 - **Front-End Development**:
 
